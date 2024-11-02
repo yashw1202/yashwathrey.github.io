@@ -1555,7 +1555,7 @@ pre {
     background-color: rgba(255, 255, 255, 0.05); }
   .table-dark.table-hover tbody tr:hover {
     color: #fff;
-    background-color: rgba(255, 255, 255, 0.075); }
+    background-color: rgba(255, 255, 255, 0); }
 
 @media (max-width: 575.98px) {
   .table-responsive-sm {
